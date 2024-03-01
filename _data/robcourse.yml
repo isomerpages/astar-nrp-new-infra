@@ -1,0 +1,23 @@
+- name: Ngee Ann Polytechnic
+  img: /images/partners/np.png
+  link: https://www.np.edu.sg/
+
+- name: Nanyang Polytechnic
+  img: /images/partners/nyp.png
+  link: https://www.nyp.edu.sg/
+
+- name: Republic Polytechnic
+  img: /images/partners/rp.png
+  link: https://www.rp.edu.sg/
+
+- name: Singapore Institute of Technology
+  img: /images/partners/sit.png
+  link: https://www.singaporetech.edu.sg/
+
+- name: Singapore Polytechnic
+  img: /images/partners/sp.png
+  link: https://www.sp.edu.sg/
+
+- name: Temasek Polytechnic
+  img: /images/partners/tp.png
+  link: https://www.tp.edu.sg/

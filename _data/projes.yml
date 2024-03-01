@@ -1,0 +1,27 @@
+- name: Enway
+  img: /images/partners/enway.png
+  link: https://enway.ai/
+
+- name: Lionsbot International
+  img: /images/partners/lionsbot.png
+  link: https://www.lionsbot.com/
+
+- name: Manas Robotics
+  img: /images/partners/manasrobotics_logo_whiteBG.PNG
+  link: https://manasrobotics.com.sg/
+
+- name: Orinno Technology
+  img: /images/partners/orinno.png
+  link: https://orinnotech.com/
+
+- name: Senserbot
+  img: /images/partners/senserbot.png
+  link: http://www.senserbot.com/
+
+- name: ST Engineering
+  img: /images/partners/ste.png
+  link: https://www.stengg.com/
+
+- name: Wong Fong Engineering - 1988
+  img: /images/partners/wongfong.png
+  link: https://wongfong.com/

@@ -1,0 +1,39 @@
+- name: A*STAR
+  img: /images/partners/astar.png
+  link: https://www.a-star.edu.sg/
+
+- name: Institute of Technical Education
+  img: /images/partners/ite.png
+  link: https://www.ite.edu.sg/
+
+- name: Nanyang Technological University
+  img: /images/partners/ntu.png
+  link: https://www.ntu.edu.sg/Pages/home.aspx
+
+- name: National University of Singapore
+  img: /images/partners/nus.png
+  link: http://nus.edu.sg/
+
+- name: Ngee Ann Polytechnic
+  img: /images/partners/np.png
+  link: https://www.np.edu.sg/Pages/default.aspx
+  
+- name: Republic Polytechnic
+  img: /images/partners/rp.png
+  link: https://www.rp.edu.sg/
+
+- name: Singapore Institute of Technology
+  img: /images/partners/sit.png
+  link: https://www.singaporetech.edu.sg/
+
+- name: Singapore Management University
+  img: /images/partners/smu.png
+  link: https://www.smu.edu.sg/
+
+- name: Singapore Polytechnic
+  img: /images/partners/sp.png
+  link: https://www.sp.edu.sg/
+
+- name: Singapore University of Technology and Design
+  img: /images/partners/sutd.png
+  link: https://www.sutd.edu.sg/

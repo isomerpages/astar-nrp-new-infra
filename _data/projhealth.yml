@@ -1,0 +1,31 @@
+- name: Handplus Robotics
+  img: /images/partners/handplus.png
+  link: https://www.handplusrobotics.com/
+
+- name: HOPE Technik
+  img: /images/partners/hope.png
+  link: https://www.hopetechnik.com/
+
+- name: IHiS
+  img: /images/partners/ihis.png
+  link: https://www.ihis.com.sg/
+
+- name: NCS
+  img: /images/partners/ncs.png
+  link: https://www.ncs.com.sg/public/ncs/en.html
+
+- name: Open Source Robotics Corporation (OSRC)
+  img: /images/partners/osrc.png
+  link: https://www.openrobotics.org/
+
+- name: SIIX-AGT
+  img: /images/partners/siix.png
+  link: https://www.siix-agt.com/
+
+- name: ST Engineering
+  img: /images/partners/ste.png
+  link: https://www.stengg.com/
+
+- name: Xnergy Autonomous Power Technologies
+  img: /images/partners/xnergy.png
+  link: https://www.xnergytech.com/

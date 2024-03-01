@@ -1,0 +1,67 @@
+<style>
+    .people {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .person {
+        display: flex;
+        flex-direction: column;
+        box-shadow: 0 0 0 rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+        border-radius: 5px;
+        padding: 23px;
+        margin: 10px;
+        width: 30%;
+    }
+
+    .person-name {
+        font-family: "Lato", sans-serif;
+        font-size: 24px;
+        color: #3a4245 !important;
+    }
+
+    .person-img {
+        margin-top: 10px;
+        padding: 10px;
+        object-fit: cover;
+        height: 200px;
+    }
+
+    .person-post {
+        font-family: "Lato", sans-serif;
+        font-size: 16px;
+        margin: 10px 0 !important;
+        flex-grow: 2;
+        line-height: 24px !important;
+        color: #c23421 !important;
+    }
+
+    @media only screen and (max-width: 1080px) {
+        .person {
+            width: 40%;
+            margin-left: 5%;
+            margin-right: 5%;
+        }
+    }
+
+    @media only screen and (max-width: 600px) {
+        .person {
+            width: 70%;
+            margin-left: 15%;
+            margin-right: 15%;
+        }
+    }
+
+</style>
+<div class="people">
+
+    {% for person in include.people %}
+    <div class="person">
+        <img class="person-img" alt="/images/people/profile.jpg" src="{{ person.img }}">
+        <span class="person-name">{{ person.name }}</span>
+        <span class="person-post">{{ person.post }}</span>
+    </div>
+    {% endfor %}
+
+</div>

@@ -1,0 +1,35 @@
+- title: "Development of Standardised Robotics Middleware Framework"
+  desc: The Robotics Middleware Framework (RMF) enables interoperability among heterogeneous robot fleets while managing robot traffic that share common resources such as space, building infrastructure systems (lifts, doors, etc.) and other automation systems within the same facility. RMF also handles task allocation and conflict resolution among its participants (such as de-conflicting traffic lanes and other resources).
+  img: /images/research/rmf.png
+
+- title: "Development and POC of AI-driven Robotics"
+  desc: This project develops the last-last mile delivery of healthcare logistics in inpatient ward and outpatient pharmacy settings.
+  img: /images/research/aidriven.png
+
+- title: "Development and POC of Care Assistant & Rehabilitation Enabling (CARE) Robots"
+  desc: "This project develops 2 types of robot: (1) TAC for labour intensive tasks such as point-to-point patient and bedside transfers, and (2) MRBA for stroke patient lower limb rehab."
+  img: /images/research/care.png
+
+- title: Development and POC of Robotic Nursing Assistant (RNA)
+  desc: The RNA robot helps to automate day-to-day mundane tasks such as delivering food, administrating medication, and vital signs monitoring, to free up the nurses for higher value tasks.
+  img: /images/placeholder.jpg
+
+- title: Development and POC of Intelligent Surgical Instrument Management (iSIM)
+  desc: This project develops system to perform automated cleaning, sorting, and delivery of surgical instruments to the operating theatres, to reduce the work load of the nurses to prepare for daily surgeries.
+  img: /images/research/isim.png
+
+- title: "Development and POC of Nurse-Robot Teaming for Care Delivery"
+  desc: "This project develops system to predict inpatient bed exits to prevent falls, and develops a robot to handle cytotoxic wastes."
+  img: /images/research/nrt.png
+
+- title: A Scalable Universal Wireless Charging Platform
+  desc: This project develops a "Universal" wireless charging system for robots from different vendors so as to resolve the issue of robotic fleet charging.
+  img: /images/research/wirelesscharge.png
+
+- title: "WASP: A Highly Versatile Robot Platform For Healthcare Settings"
+  desc: This project develops modular nested reconfigurable robot to adapt efficiently to the uncertainties of logistics delivery, surveillance, patient handling, and cleaning/infection control.
+  img: /images/research/wasp.png
+
+- title: Standards & System Safety Evaluation Framework For Operations Of Robotic Systems In Hospital
+  desc: Standards for the use of robots in hospitals are not available. With joint collaboration with the Japan Quality Assurance, a set of safety standards are being developed.
+  img: /images/placeholder.jpg

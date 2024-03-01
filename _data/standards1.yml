@@ -1,0 +1,89 @@
+- name: "IEC 60204-1:2016"
+  type: safety
+  ss: ""
+  link: https://webstore.iec.ch/publication/26036
+  desc: "Safety of Machinery - Electrical equipment of Machinery - Part 1 General Requirements"
+
+- name: "IEC 60335-2-2:2019"
+  type: safety
+  ss: ""
+  link: https://webstore.iec.ch/publication/65128
+  desc: "Household and similar electrical appliances - Safety - Part 2-2: Particular requirements for vacuum cleaners and water-suction cleaning appliances"
+
+- name: "IEC 62061:2005"
+  type: safety
+  ss: ""
+  link: https://webstore.iec.ch/publication/6426
+  desc: "Safety of Machinery: Functional Safety of safety-related electrical, electronic and programmable electronic control systems (functional verses that of performance in ISO 13849)"
+
+- name: "IEEE 730-2014"
+  type: normal
+  ss: ""
+  link: https://standards.ieee.org/standard/730-2014.html
+  desc: "IEEE Standard for Software Quality Assurance Processes"
+
+- name: "IEEE 1059-1993"
+  type: normal
+  ss: ""
+  link: https://standards.ieee.org/standard/1059-1993.html
+  desc: "IEEE Guide for Software V&V (Verification and Validation) Plans"
+
+- name: "IEEE 1012-2016"
+  type: normal
+  ss: ""
+  link: https://standards.ieee.org/standard/1012-2016.html
+  desc: "IEEE Standard for System, Software, and Hardware Verification and Validation"
+
+- name: "ISO 8373:2012"
+  type: normal
+  ss: "SS ISO 8373:2017"
+  link: https://www.iso.org/standard/55890.html?browse=tc
+  desc: "Robots and robotic devices - Vocabulary"
+
+- name: "ISO 9787:2013"
+  type: normal
+  ss: "SS ISO 9787:2017"
+  link: https://www.iso.org/standard/59444.html?browse=tc
+  desc: "Robots and robotic devices - Coordinate systems and motion nomenclatures"
+
+- name: "ISO 11161:2007"
+  type: safety
+  ss: ""
+  link: https://www.iso.org/standard/50323.html?browse=tc
+  desc: "Safety of Machinery: Integrated Manufacturing Systems - Basic Requirements (e.g. Multi-Robot-Lines)"
+
+- name: "ISO 12100:2010"
+  type: safety
+  ss: ""
+  link: https://www.iso.org/standard/51528.html?browse=tc
+  desc: "Safety of machinery - General principles for design - Risk assessment and risk reduction"
+
+- name: "ISO 13849-1:2015"
+  type: safety
+  ss: ""
+  link: https://www.iso.org/standard/69883.html?browse=tc
+  desc: "Safety of machinery - Safety-related parts of control systems - Part 1: General principles for design"
+
+- name: "ISO 13849-2:2012"
+  type: safety
+  ss: ""
+  link: https://www.iso.org/standard/53640.html?browse=tc
+  desc: "Safety of machinery - Safety-related parts of control systems - Part 2: Validation"
+
+- name: "ISO/TS 15066:2016"
+  type: normal
+  ss: "TR ISO/TS 15066:2016"
+  link: https://www.iso.org/standard/62996.html?browse=tc
+  desc: "Robots and robotic devices - Collaborative robots"
+
+- name: "ISO 19649:2017"
+  type: normal
+  ss: "SS ISO 19649:2017"
+  link: https://www.iso.org/standard/65658.html?browse=tc
+  desc: "Mobile robots - Vocabulary"
+
+- name: "ISO-25000:2005 (REPLACING ISO-9126 AND ISO-14598)"
+  type: normal
+  ss: ""
+  link: https://www.iso.org/standard/35683.html?browse=tc
+  desc: "Software Engineering - Software product Quality Requirements and Evaluation (SQuaRE) - Guide to SQuaRE"

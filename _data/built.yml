@@ -1,0 +1,11 @@
+- title: "Robotics for Construction 4.0"
+  desc: The objective of the project is to use a systematic approach based on Design for Manufacturing and Assembly (DfMA) paradigm for construction robotics and automation, to address the construction productivity issues.
+  img: /images/research/rfc4.png
+
+- title: "Site Monitoring Robot: Use of Robotic Integrated Total System for Site Monitoring in mega reclamation proiect"
+  desc: This objective of the project is to produce a Robotic Integrated Total System (RITS) to fully automate the collection, compilation and analysis of a wide range of instrumentation data for site monitoring. It promises a high productivity and eliminate possible human error in the process.
+  img: /images/research/sitemonitor.png
+
+- title: "Automated Lane Closure and Re-Opening System (ALCROS)"
+  desc: The objective of the ALCROS project is to develop a solution that automatically places and retrieves traffic warning signs as well as traffic cones during lane closures without any physical presence of workers on the road. The aim is to reduce the chances of lane closure associated accident fatalities by removing the necessity of having any workers on the road at all.
+  img: /images/research/alcros.png

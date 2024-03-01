@@ -1,0 +1,6 @@
+collections:
+  community:
+    output: true
+    order:
+      - 00-learningcorner.md
+      - 01-clubs.md

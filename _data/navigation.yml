@@ -1,0 +1,25 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/NRP LOGO.png
+
+links:
+  - title: Who We Are
+    collection: who-we-are
+  - title: R&D
+    collection: research
+  - title: Industry
+    collection: industry
+  - title: Engineering
+    collection: engineering
+  - title: Events
+    collection: events
+  - title: Initiatives
+    collection: initiatives
+  - title: News & Media
+    resource_room: true
+  - title: Community
+    collection: community

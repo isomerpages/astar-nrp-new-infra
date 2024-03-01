@@ -1,0 +1,7 @@
+collections:
+  industry:
+    output: true
+    order:
+      - 00-overview.md
+      - 01-ecopartners.md
+      - 02-projparts.md

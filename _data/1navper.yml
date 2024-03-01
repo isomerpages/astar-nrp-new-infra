@@ -1,0 +1,7 @@
+- title: Autonomous Navigation using Advanced Localization & Obstacle Avoidance with Reconfigurable Sensors (ANALOARS)
+  desc: ROS-based navigation stack developed for robots to orientate, localise, and interact in an environment filled with people.
+  img: /images/research/analoars.png
+
+- title: Semantic and Map-lite Indoor Visual Navigation (SML)
+  desc: Improved navigation in indoor close-quarters and dynamic environments, with semantic labelling of 3D point cloud, reduced reliance on fixed maps, and the ability to navigate in close proximity to people.
+  img: /images/research/sml.png

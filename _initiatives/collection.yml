@@ -1,0 +1,17 @@
+collections:
+  initiatives:
+    output: true
+    order: 
+      - 00-Initiatives.md
+      - 01-research/.keep
+      - 01-research/00-overview.md
+      - 01-research/01-biorobotics-mech.md
+      - 01-research/02-biorobotics-ee.md
+      - 01-research/03-biorobotics-software.md
+      - 01-research/04-uavplatformrob.md
+      - 01-research/05-uaveerob.md
+      - 01-research/06-uavcontrolrob.md
+      - 01-research/07-roarmech.md
+      - 01-research/08-roarsoftware.md
+      - 01-research/09-roarcomputer.md
+      - 01-research/10-fewsrf.md
