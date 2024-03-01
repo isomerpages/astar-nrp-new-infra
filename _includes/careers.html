@@ -1,0 +1,80 @@
+<style>
+    .Initiatives {
+        display: grid;
+        grid-gap: 26px;
+        grid-template-columns: 50% 50%;
+    }
+
+    .Initiative {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        border-radius: 5px;
+        padding: 23px;
+        border: 1px solid black;
+        cursor: pointer;
+    }
+
+    .Initiative:hover {
+        box-shadow: 0 0 11px rgba(33,33,33,.2);
+    }
+
+    .Initiative-title {
+        font-family: "Lato", sans-serif;
+        font-size: 24px;
+        color: #3a4245 !important;
+    }
+
+    .Initiative-com {
+        font-family: "Lato", sans-serif;
+        font-size: 20px;
+        margin: 10px 0 !important;
+        flex-grow: 2;
+        line-height: 24px !important;
+        color: #c23421 !important;
+    }
+
+    .Initiative-date {
+        font-family: "Lato", sans-serif;
+        font-size: 16px;
+        margin: 10px 0 !important;
+        flex-grow: 2;
+        line-height: 24px !important;
+        color: #c23421 !important;
+    }
+
+    .Initiative-sum {
+        font-family: "Lato", sans-serif;
+        font-size: 14px;
+        margin-top: 20px;
+    }
+
+    .link-tag {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin-bottom: 0 !important;
+    }
+
+    @media only screen and (max-width: 600px) {
+        .careers {
+            grid-template-columns: 100%;
+        }
+    }
+
+</style>
+<div class="Initiatives">
+
+    {% for Initiative in include.Initiatives %}
+    <div class="Initiative">
+        <a href="{{ Initiative.link}}" class="link-tag"></a>
+        <span class="Initiative-title">{{ Initiative.title }}</span>
+        <span class="Initiative-com">{{ Initiative.com }}</span>
+        <span>Apply by: <span class="Initiative-date">{{ Initiative.date }}</span></span>
+        <span class="Initiative-sum">{{ Initiative.sum }}</span>
+    </div>
+    {% endfor %}
+
+</div>

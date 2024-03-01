@@ -1,0 +1,59 @@
+- name: "IEC/TR 60601-4-1:2017"
+  type: normal
+  ss: ""
+  link: https://www.iso.org/standard/70755.html?browse=tc
+  desc: "Medical electrical equipment - Part 4-1: Guidance and interpretation - Medical electrical equipment and medical electrical systems employing a degree of autonomy"
+
+- name: "IEC 80601-2-77:2019"
+  type: normal
+  ss: ""
+  link: https://www.iso.org/standard/68473.html?browse=tc
+  desc: "Medical electrical equipment - Part 2-77: Particular requirements for the basic safety and essential performance of robotically assisted surgical equipment"
+
+- name: "IEC 80601-2-78:2019"
+  type: normal
+  ss: ""
+  link: https://www.iso.org/standard/68474.html?browse=tc
+  desc: "Medical electrical equipment - Part 2-78: Particular requirements for basic safety and essential performance of medical robots for rehabilitation, assessment, compensation or alleviation"
+
+- name: "ISO 13482:2014"
+  type: safety
+  ss: "SS ISO 13482:2017"
+  link: https://www.iso.org/standard/53820.html?browse=tc
+  desc: "Robots and robotic devices - Safety requirements for personal care robots"
+
+- name: "ISO/TR 23482-1:2020"
+  type: safety
+  ss: ""
+  link: https://www.iso.org/standard/71564.html?browse=tc
+  desc: "Robotics - Application of ISO 13482 - Part 1: Safety-related test methods"
+
+- name: "ISO/TR 23482-2:2019"
+  type: safety
+  ss: ""
+  link: https://www.iso.org/standard/71627.html?browse=tc
+  desc: "Robotics - Application of ISO 13482 - Part 2: Application guidelines"
+
+- name: "JIS B 8446-1:2016"
+  type: safety
+  ss: ""
+  link: https://global.ihs.com/doc_detail.cfm?&item_s_key=00677499
+  desc: "Safety requirements for personal care robots - Part 1: Static stable mobile servant robot with no manipulator"
+
+- name: "JIS B 8446-2:2016"
+  type: safety
+  ss: ""
+  link: https://global.ihs.com/doc_detail.cfm?&item_s_key=00677499
+  desc: "Safety requirements for personal care robots - Part 2: Low power restraint-type physical assistant robot"
+
+- name: "JIS B 8446-3:2016"
+  type: safety
+  ss: ""
+  link: https://global.ihs.com/doc_detail.cfm?&item_s_key=00677498
+  desc: "Safety requirements for personal care robots - Part 3: Self-balancing person carrier robot"
+
+- name: "JIS B 8456-1:2017"
+  type: normal
+  ss: ""
+  link: https://global.ihs.com/doc_detail.cfm?&item_s_key=00735756
+  desc: "Personal care robots - Part 1: Physical assistant robots for lumbar support"

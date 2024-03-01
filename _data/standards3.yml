@@ -1,0 +1,17 @@
+- name: "IEC 60335-1:2020 "
+  type: normal
+  ss: ""
+  link: https://webstore.iec.ch/publication/61880
+  desc: "Household and similar electrical appliances - Safety - Part 1: General requirements"
+
+- name: "ISO 18646-1:2016"
+  type: safety
+  ss: "SS ISO 18646-1:2017"
+  link: https://www.iso.org/standard/63127.html?browse=tc
+  desc: "Robotics - Performance criteria and related test methods for service robots - Part 1: Locomotion for wheeled robots"
+
+- name: "ISO 18646-2:2019"
+  type: safety
+  ss: ""
+  link: https://www.iso.org/standard/69057.html?browse=tc
+  desc: "Robotics - Performance criteria and related test methods for service robots - Part 2: Navigation"

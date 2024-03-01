@@ -1,0 +1,23 @@
+- name: A*STAR
+  img: /images/partners/astar.png
+  link: https://www.a-star.edu.sg/
+
+- name: Economic Development Board
+  img: /images/partners/edb.png
+  link: https://www.edb.gov.sg/
+
+- name: Enterprise Singapore
+  img: /images/partners/esg.png
+  link: https://www.enterprisesg.gov.sg/
+
+- name: GovTech
+  img: /images/partners/govtech.png
+  link: https://www.tech.gov.sg/
+
+- name: MINDEF
+  img: /images/partners/mindef.png
+  link: https://www.mindef.gov.sg/web/portal/mindef/home
+
+- name: National Research Foundation
+  img: /images/partners/nrf.png
+  link: https://www.nrf.gov.sg/

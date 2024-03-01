@@ -1,0 +1,9 @@
+collections:
+  who-we-are:
+    output: true
+    order:
+      - 00-overview.md
+      - 01-people.md
+      - 02-partners.md
+      - 03-abbreviations.md
+      - 04-contact-us.md

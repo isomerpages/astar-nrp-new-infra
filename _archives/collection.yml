@@ -1,0 +1,17 @@
+collections:
+  archives:
+    output: true
+    order:
+      - 0-webinars/.keep
+      - 0-webinars/00-archive.md
+      - 0-webinars/01-covid19.md
+      - 0-webinars/02-jessy.md
+      - 0-webinars/03-tamim.md
+      - 0-webinars/04-oussama.md
+      - 0-webinars/05-nproboticssymposium.md
+      - 0-webinars/06-roboticsforconstruction.md
+      - 1-exhibitions/.keep
+      - 1-exhibitions/00-archive.md
+      - 2-icgc/.keep
+      - 2-icgc/00-archive.md
+      - 2-icgc/01-esgeoic2020.md

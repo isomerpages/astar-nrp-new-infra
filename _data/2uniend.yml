@@ -1,0 +1,15 @@
+- title: Robotic End Effectors With Integrated Perception for Professional Services
+  desc: End-effectors that would assist healthcare workers in the sorting of their everyday tasks.
+  img: /images/research/uniend.png
+
+- title: Soft and Hybrid Robotics Phase 1
+  desc: Soft robotics integrated with a highly tuned control system that could pick and place fragile objects.
+  img: /images/research/softhybrid.png
+
+- title: "AiSkin: Next Generation Intelligent Robot Tactile Sensor"
+  desc: Next generation sensor that would provide neuromorphic capabilities to robots as input.
+  img: /images/research/aiskin.png
+
+- title: Highly Sensitive Tactile Sensor
+  desc: Tactile sensor with low power consumption, low cost printing processes, high sensitivity and adaptability to various surfaces. It allows static capture of spatial pressure distribution and dynamic monitoring of pressure stimuli, enabling applications for soft robotics, and human-machine interfaces.
+  img: /images/research/oect.png

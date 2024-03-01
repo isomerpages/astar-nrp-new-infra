@@ -19,7 +19,7 @@ colors:
       color: '#00838f'
 
 description: An Isomer site of the Singapore Government
-
+resources_name: news-media
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################

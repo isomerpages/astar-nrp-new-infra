@@ -1,0 +1,67 @@
+<style>
+    .partners {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .partner {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        padding: 23px;
+        margin: 10px;
+        cursor: pointer;
+        width: 30%;
+    }
+
+    .partner:hover {
+        box-shadow: 0 0 11px rgba(33,33,33,.2);
+    }
+
+    .partner-img {
+        margin: 10px;
+        height: 70px;
+        object-fit: contain;
+    }
+
+    .link-tag {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin-bottom: 0 !important;
+    }
+
+    @media only screen and (max-width: 1080px) {
+        .partner {
+            width: 40%;
+            margin-left: 5%;
+            margin-right: 5%;
+        }
+    }
+
+    @media only screen and (max-width: 600px) {
+        .partner {
+            width: 70%;
+            margin-left: 15%;
+            margin-right: 15%;
+        }
+
+        .partner-img {
+            padding: 10px;
+        }
+    }
+
+</style>
+<div class="partners">
+
+    {% for partner in include.partners %}
+    <div class="partner">
+        <a href="{{ partner.link}}" class="link-tag"></a>
+        <img class="partner-img" src="{{ partner.img }}" alt="{{ partner.name }}">
+    </div>
+    {% endfor %}
+
+</div>

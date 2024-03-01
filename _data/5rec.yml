@@ -1,0 +1,7 @@
+- title: "A Self-reconfigurable Class of Maintenance Robots"
+  desc: Self-reconfigurable robotics is a new class of robots that possess the ability to autonomously adapt their morphologies to overcome complexities posed by the environment. Our current efforts address the challenges posed by fixed morphology robots in the maintenance sector by applying self-reconfigurable principles.
+  img: /images/research/recrob.png
+
+- title: "ERMINE II: Long Term Autonomy in Self-reconfigurable Maintenance Robots"
+  desc: An expansion from the original "A Self-reconfigurable Class of Maintenance Robots" project. This project focuses on achieving long term operation and autonomy as they are crucial to robot robustness and endurance.
+  img: /images/research/ermineii.png

@@ -1,0 +1,15 @@
+collections:
+  research:
+    output: true
+    order:
+      - 00-overview.md
+      - 1a-healthcare.md
+      - 1b-built-environment.md
+      - 1c-environmental-services.md
+      - 2a-nav-per.md
+      - 2b-uni-end.md
+      - 2c-hri.md
+      - 2d-syscap.md
+      - 2e-rec.md
+      - 2f-assistive.md
+      - 2g-others.md

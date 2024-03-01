@@ -1,0 +1,78 @@
+<style>
+    .ecoparts {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .ecopart {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        box-shadow: 0 0 0 rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+        border-radius: 5px;
+        padding: 23px;
+        margin: 10px;
+        cursor: pointer;
+        width: 30%;
+    }
+
+    .ecopart:hover {
+        box-shadow: 0 0 11px rgba(33,33,33,.2);
+    }
+
+    h4 {
+        margin-top: 0 !important;
+    }
+
+    .ecopart-img {
+        margin-top: 10px;
+        padding: 10px;
+        height: 100px;
+        object-fit: contain;
+    }
+
+    .ecopart-desc {
+        font-family: "Lato", sans-serif;
+        font-size: 16px;
+        margin-top: 10px;
+    }
+
+    .link-tag {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin-bottom: 0 !important;
+    }
+
+    @media only screen and (max-width: 1080px) {
+        .ecopart {
+            width: 40%;
+            margin-left: 5%;
+            margin-right: 5%;
+        }
+    }
+
+    @media only screen and (max-width: 600px) {
+        .ecopart {
+            width: 70%;
+            margin-left: 15%;
+            margin-right: 15%;
+        }
+    }
+
+</style>
+<div class="ecoparts">
+
+    {% for ecopart in include.ecoparts %}
+    <div class="ecopart">
+        <a href="{{ ecopart.link}}" class="link-tag"></a>
+        <!--<h4>{{ ecopart.name }}</h4>-->
+        <img class="ecopart-img" src="{{ ecopart.img }}" alt="/images/profile.jpg">
+        <!--<span class="ecopart-desc">{{ ecopart.desc }}</span>-->
+    </div>
+    {% endfor %}
+
+</div>
