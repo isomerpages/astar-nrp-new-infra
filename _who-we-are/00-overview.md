@@ -1,12 +1,13 @@
 ---
 title: Overview
 permalink: /who-we-are/
+variant: markdown
 ---
 ## Who we are
-The National Robotics Programme (NRP) is a multi-agency national programme that looks at the end-to-end development of differentiating robotics enablers and solutions in Singapore, from funding R&D to facilitating partnerships for translation and adoption to maximise socio-economic impact. Tour around our website to find out more!
+The National Robotics Programme (NRP) is a multi-agency national programme that looks at the end-to-end development of differentiating robotics enablers and solutions in Singapore, from funding R&amp;D to facilitating partnerships for translation and adoption to maximise socio-economic impact. Tour around our website to find out more!
 
 ## Our Vision
->"We envision a vibrant and innovative robotics ecosystem capable of providing solutions to fuel the Smart Nation initiative and to establish Singapore as a global centre of excellence for the study, research, development, making and applications of robotics solutions."  
+&gt;"We envision a vibrant and innovative robotics ecosystem capable of providing solutions to fuel the Smart Nation initiative and to establish Singapore as a global centre of excellence for the study, research, development, making and applications of robotics solutions."  
   
 \- *Professor Quek Tong Boon, Chief Executive, National Robotics Programme*  
   
@@ -17,4 +18,3 @@ The rounded square on the left represents a robot and the circle on the right re
   
 ## History
   
-{% include timeline.html events=site.data.timeline %}
