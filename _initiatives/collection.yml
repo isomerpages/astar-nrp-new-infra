@@ -2,8 +2,8 @@ collections:
   initiatives:
     output: true
     order:
-      - RoboNexus.md
       - RoboCluster.md
+      - RoboNexus.md
       - 01-research/.keep
       - 01-research/00-overview.md
       - 01-research/01-biorobotics-mech.md
