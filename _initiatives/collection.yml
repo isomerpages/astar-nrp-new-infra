@@ -1,8 +1,8 @@
 collections:
   initiatives:
     output: true
-    order: 
-      - 00-Initiatives.md
+    order:
+      - RoboCluster.md
       - 01-research/.keep
       - 01-research/00-overview.md
       - 01-research/01-biorobotics-mech.md
